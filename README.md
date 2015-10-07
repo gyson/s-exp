@@ -10,9 +10,16 @@ For fun.
 
 Node 4.x or babeljs.
 
+### Installation
+
+```
+$ npm install s-exp
+```
+
 ### Usage
 
 ```js
+const s = require('s-exp')
 const assert = require('assert')
 
 s`  
