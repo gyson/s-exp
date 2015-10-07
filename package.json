@@ -1,0 +1,14 @@
+{
+  "name": "s-exp",
+  "version": "0.0.1",
+  "description": "JavaScript with S Expression powered by tagged template string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "gyson <eilian.yunsong@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
